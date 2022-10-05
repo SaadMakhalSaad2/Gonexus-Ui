@@ -119,7 +119,7 @@ class CreateEvent extends StatelessWidget {
               height: 16,
             ),
             Text(
-              'Description',
+              'Description ',
               style: MyStyles().sectionTitle,
             ),
             const SizedBox(
